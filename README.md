@@ -1,6 +1,6 @@
 # Yatawara-Exposure-Inequity-Gradient
 
-This reproducible workflow conducts the statistical analyses as seen in our paper (citation here soon) through a series of scripts. Everything you need is contained within this repository. To setup, set RStudio's working directory to the folder containing the repository files and ensure the working directory includes:
+This reproducible workflow conducts the statistical analyses as seen in our paper (https://doi.org/10.1016/j.aeaoa.2026.100492) through a series of scripts. Everything you need is contained within this repository. To setup, set RStudio's working directory to the folder containing the repository files and ensure the working directory includes:
 
 1. Population_StatesCounty_2000-2023.csv
 2. MHIDataUSCounties.csv
